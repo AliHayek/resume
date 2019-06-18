@@ -12,17 +12,16 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ahayek@mindsetsadvisors.com
+    email:ahayek@mindsetsadvisors.com
     phone: +961 71 472 870
     website:  #do not add http://
     linkedin: AliHayek8
     github: alihayek
     gitlab:
     bitbucket:
-    twitter: '@alihayek__'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    codewars: 
+    goodreads: ALI HAYEK # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Arabic
@@ -35,13 +34,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Sports, Health, & Nutrition  
         link:
 
-      - item: Snowboarding
-        link:
+      - item: Reading books
+        link: 
 
-      - item: Cooking
+      - item: Oil & Gas Industry
         link:
 
 career-profile:
@@ -83,9 +82,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Business Analyst
+      time: July 2018 - Present
+      company:Mindsets Strategy & Decision Advisors, Beirut 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
