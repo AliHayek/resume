@@ -132,24 +132,26 @@ projects:
         tagline: "Presented to French juries a project regarding the human eye and all innovative and advanced remedy techniques."
 
 publications:
-    title: Power BI, A Complete Introduction- course on Udemy
+    title: Courses and Trainings 
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Power BI: A Complete Introduction
+        authors:Course on Udemy
+        conference: Certified in 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Finance and Capital Markets"
+        authors: Course on Khan Academy
+        conference: "Ongoin"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Data Science in Business  
+        authors: A two-day training 
+        conference: ""
+            
+      - title: Financial Modelling
+        authors: A two-day training
+        
 
 skills:
     title: Skills &amp; Proficiency
