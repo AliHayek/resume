@@ -108,30 +108,28 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
 
     assignments:
-      - title: Velocity
+      - title: Final Year Project
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Conducted the technical and economic feasibility study of a plant that produces Polyethylene from Biomass."
 
-      - title: DevStudio
+      - title: Design of Experiment Research and Presentation
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Researched and presented how to integrate Design of Experiment in Hikma's Active Pharmaceutical Ingredient plant, and presented it to Hikma's General Manager."
 
-      - title: Tempo
+      - title: Member of AUB’s chemE-Car Team
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Participated in developing the stopping mechanism of a chemically-drive car, the team won second place in AIChE’s chemE-Car regional competiton in Bahrain."
 
-      - title: Atom
+      - title: E.Coli Detector Research and Prototype
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Built a prototype of an E.Coli detector to allow anyone to easily test the quality of water."
 
-      - title: Delta
+      - title: Travaux Personnels Encadrés
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Presented to French juries a project regarding the human eye and all innovative and advanced remedy techniques."
 
 publications:
     title: Power BI, A Complete Introduction- course on Udemy
