@@ -138,20 +138,20 @@ publications:
 
     papers:
       - title: A Complete Introduction on Power BI 
-        authors:Course on Udemy
+        authors: "Course on Udemy"
         conference: Certified in 2019
 
       - title: "Finance and Capital Markets"
-        authors: Course on Khan Academy
+        authors: "Course on Khan Academy"
         conference: "Ongoin"
 
       - title: Data Science in Business  
-        authors: A two-day training 
+        authors: "A two-day training" 
         conference: ""
             
       - title: Financial Modelling
         authors: A two-day training
-        
+        Conference: ""
 
 skills:
     title: Skills &amp; Proficiency
