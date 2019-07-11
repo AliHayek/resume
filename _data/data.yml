@@ -50,7 +50,8 @@ career-profile:
       Ali has modest experience in data analytics, he is currently working on developing PowerBI-powered dashboards for Malik's Bookshop, Lebanon. 
       Ali's passion is to learn every day, he is currently registered in Finance and Capital Market course on Khan Academy and was certified in Power BI from Udemy. 
       In his free time, Ali works out, reads books, learns about health and diet, improves his soft skills, and keeps up to date with every-day news worldwide.  
-      
+      Ali graduated with a Bachelor's in Chemical Engineering from the American University of Beirut, with Distinction. Key courses include Petroleum Engineering, Petroleum Refining, Operations Research, and Solid Waste Management.
+
       
 education:
     - degree: BE in Chemical Engineering 
@@ -58,8 +59,7 @@ education:
       time: 2014 - 2018
       details: |
         
-          - Ali graduated with a Bachelor's in Chemical Engineering from the American University of Beirut, with Distinction. Key courses include Petroleum Engineering, Petroleum Refining, Operations Research, and Solid Waste Management.
-
+          - Bullet point
           - Bullet point
 
     - degree: French & Lebanese Baccalaureate
