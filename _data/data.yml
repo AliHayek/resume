@@ -129,10 +129,9 @@ projects:
         tagline: "Presented to French juries a research project regarding the human eye and all innovative and advanced remedy techniques."
 
 publications:
-    title: Courses,Trainings, and Extracurricular Activities 
+     title: Courses,Trainings, and Extracurricular Activities 
     intro: |
       
-        papers:
     
     - title: "Finance and Capital markets"  
       authors: "Course on Khan Academy"
