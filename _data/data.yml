@@ -134,32 +134,34 @@ publications:
       
         papers:
     
-        - title: "Finance and Capital markets"  
-        authors: "Course on Khan Academy"
-        conference: Ongoing 
+    - title: "Finance and Capital markets"  
+      authors: "Course on Khan Academy"
+      conference: Ongoing 
 
-        - title: "A Complete Introduction to Power BI"
-        authors: "Course on Udemy"
-        conference: "Certified in July 2019"
+    - title: "A Complete Introduction to Power BI"
+      authors: "Course on Udemy"
+      conference: "Certified in July 2019"
 
-        - title: Data Science in Business  
-        authors: "Two-day training" 
-        conference: "June 2019"
-            
-        - title: "Financial Modelling"
-        authors: Two-day training
-        Conference: "March 2019"
+    - title: Data Science in Business  
+      authors: "Two-day training" 
+      conference: "June 2019"
+      
+    - title: "Financial Modelling"
+      authors: Two-day training
+      conference: "March 2019"
         
-        - title: Elected Vice President of AIChE, AUB chapter
-        authors: Responsible for communicating with the administration, enhancing the communication within the student body, raising funds, and supervising all AIChE's events.
-        Conference: "2018"
-        - title: Elected Public Relations Officer of AIChE, AUB chapter
-        authors: Responsible for aquiring sponsors and liaising between different departments and societites.
-        Conference: "2017"
+    - title: "Elected Vice President of AIChE, AUB chapter"
+      authors: Responsible for communicating with the administration, enhancing the communication within the student body, raising funds, and supervising all AIChE's events.
+      conference: "2018"
+      
+    - title: "Elected Public Relations Officer of AIChE, AUB chapter"
+      authors: Responsible for aquiring sponsors and liaising between different departments and societites.
+      conference: "2017"
         
-        - title: Assigned by School Director as Head of the Student Committee    
-        authors: Responsible for organizing fundraising events, graduation ceremony, and prom dinner
-        Conference: "2014"
+    - title: "Assigned by School Director as Head of the Student Committee"    
+      authors: Responsible for organizing fundraising events, graduation ceremony, and prom dinner
+      conference: "2014"
+
 skills:
     title: Skills &amp; Proficiency
 
