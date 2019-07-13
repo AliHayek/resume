@@ -127,7 +127,7 @@ publications:
     intro: |
       
     papers:
-      - title: Finance and Capital markets  
+      - title: "Finance and Capital markets"  
         authors: "Course on Khan Academy"
         conference: "Ongoing" 
 
@@ -135,12 +135,12 @@ publications:
         authors: "Course on Udemy"
         conference: "Certified in July 2019"
 
-      - title: Data Science in Business  
+      - title: "Data Science in Business"  
         authors: "Two-day training" 
         conference: "June 2019"
             
-      - title: Financial Modelling
-        authors: Two-day training
+      - title: "Financial Modelling"
+        authors: "Two-day training"
         Conference: "March 2019"
 
 skills:
