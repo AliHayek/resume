@@ -53,7 +53,7 @@ career-profile:
 
       
 education:
-    - degree: B.E in Chemical Engineering, with Distinction (85.4/100, 3.66/4) 
+    - degree: B.E in Chemical Engineering, with Distinction (GPA of 85.4/100, 3.66/4) 
       university: American University of Beirut
       time: 2014 - 2018
       details: |
@@ -134,7 +134,7 @@ publications:
       
 
     papers:
-      - title: Finance and Capital markets  
+      - title: "Finance and Capital markets"  
         authors: "Course on Khan Academy"
         conference: Ongoing 
 
@@ -146,7 +146,7 @@ publications:
         authors: "Two-day training" 
         conference: "June 2019"
             
-      - title: Financial Modelling
+      - title: "Financial Modelling"
         authors: Two-day training
         Conference: "March 2019"
         
