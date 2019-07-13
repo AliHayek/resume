@@ -46,14 +46,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Ali Hayek is a Business Analyst at Mindsets Strategy & Decision Advisors in Beirut, Lebanon. He has one year of experience in strategy development and implementation, culture and creative industries, data analytics, and financial and institutional modelling in urban regeneration.   
-      Ali's passion is to learn every day, he is currently registered in a Finance and Capital Market course on Khan Academy, he was certified in Power BI from Udemy. 
-      In his free time, Ali works out, reads books, learns about health and diet, improves his soft skills, and keeps up to date with every-day news worldwide.  
+      Ali Hayek is a Business Analyst at Mindsets Strategy and Decision Advisors in Beirut, Lebanon. He has one year of experience in strategy development and implementation, culture and creative industries, data analytics, and financial and institutional modelling in urban regeneration.   
+      Ali's passion is to learn every day, he is currently registered in a Finance and Capital Market course on Khan Academy, and he was certified in Power BI from Udemy. 
+      In his free time, Ali works out, reads books, improves his soft skills, and keeps up to date with every-day news worldwide.  
       Ali graduated with a Bachelor's in Chemical Engineering from the American University of Beirut, with Distinction. Key courses include Petroleum Engineering, Petroleum Refining, Operations Research, and Solid Waste Management.
 
       
 education:
-    - degree: B.E in Chemical Engineering, with Distinction 
+    - degree: B.E in Chemical Engineering, with Distinction (GPA: 85.4/100, 3.66/4) 
       university: American University of Beirut
       time: 2014 - 2018
       details: |
@@ -62,7 +62,7 @@ education:
           - Bullet point
 
     - degree: French & Lebanese Baccalaureates
-      university: Sagesse Saint-Jean, Baabda  
+      university: Collège de la Sagesse Saint Jean, Baabda  
       time: 2000-2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -77,17 +77,17 @@ education:
 experiences:
     - role: Business Analyst
       time: July 2018 - Present
-      company: Mindsets Strategy & Decision Advisors, Lebanon
+      company: Mindsets Strategy and Decision Advisors, Lebanon
       details: |
         - Data Analytics in Retail, Lebanon- Project with Malik's Bookshop: Analyzing Malik's Bookshop data to infer business decisions, creating dashboards, and elevating the data-driven practices at Malik's.     
-        - Baseline Study for the Culture & Creative Industries, Lebanon- Project wiht GIZ: Identifying and mapping all talents, support structures, and governmental entities in the creative sector, conducting interviews with a vast number of stakeholders, and recommending and assisting GIZ in planning their initiatives in Lebanon and Jordan. 
+        - Baseline Study for the Culture & Creative Industries, Lebanon- Project wiht GIZ: Identifying and mapping all talents, support structures, and governmental entities in the creative sector, conducting a stakeholders analysis, and assisting GIZ in planning their initiatives in Lebanon. 
         - Consulting Services for Makkah Region Development Authority (MRDA), Kingdom of Saudi Arabia - Project with MRDA: Analyzing master and strategic plans in Makkah Region in order to match current strategic goals with KSA's Vision2030, and prioritize projects and initiatives.
         - Urban Regeneration, Afghanistan- Project with World Bank: Conducting a thorough current state assessment of urban regeneration in Afghanistan. The aim of the project is to recommend financial, legal, and institutional models to assist and facilitate the introduction of urban regeneration as a tool to realize economic growth in Afghanistan's main six cities.      
     - role: Production Engineer, Intern
       time: January 2018-February 2018
       company: Advanced Plastic Industries, Lebanon
       details: |
-          - Assisted in the selection of pipes and fittings to be produced, as well as in the monitoring the production process.
+          - Contributed in selecting pipes and fittings to be produced, as well as in monitoring the production process.
           - Assigned to conduct several mechanical tests on pipes in the quality control unit.
 
     - role: Production Engineer, Intern
@@ -108,28 +108,28 @@ projects:
       
 
     assignments:
-      - title: Final Year Project
+      - title: Final Year Project, 2018
         link: "#hook"
-        tagline: "Conducted the technical and economic feasibility study of a plant that produces Polyethylene from Biomass."
+        tagline: "Conducted the technical and financial feasibility study of a plant that produces Polyethylene from Biomass."
 
-      - title: Design of Experiment Research and Presentation
+      - title: Design of Experiment Research and Presentation, 2017
         link: "#"
         tagline: "Researched the integration of Design of Experiment in Hikma's Active Pharmaceutical Ingredient plant, the findings were presented to Hikma's General Manager."
 
-      - title: Member of AUB’s chemE-Car Team
+      - title: Member of AUB’s chemE-Car Team, 2017
         link: "#"
         tagline: "Participated in developing the stopping mechanism of a chemically-driven car, the team won second place in AIChE’s chemE-Car regional competition in Bahrain."
 
-      - title: E.Coli Detector Research and Prototype
+      - title: E.Coli Detector Research and Prototype, 2016
         link: "#"
         tagline: "Built a prototype of an E.Coli detector that allows an easier process of testing the quality of water."
 
-      - title: Travaux Personnels Encadrés
+      - title: Travaux Personnels Encadrés, 2013
         link: "#"
-        tagline: "Presented to French juries a project regarding the human eye and all innovative and advanced remedy techniques."
+        tagline: "Presented to French juries a research project regarding the human eye and all innovative and advanced remedy techniques."
 
 publications:
-    title: Courses & Trainings 
+    title: Courses,Trainings, and Extracurricular Activities 
     intro: |
       
 
@@ -149,7 +149,17 @@ publications:
       - title: Financial Modelling
         authors: Two-day training
         Conference: "March 2019"
-
+        
+       - title: Elected Vice President of AIChE, AUB chapter
+        authors: Responsible for communicating with the administration, enhancing the communication within the student body, raising funds, and supervising all AIChE's events.
+        Conference: "2018"
+       - title: Elected Public Relations Officer of AIChE, AUB chapter
+        authors: Responsible for aquiring sponsors and liaising between different departments and societites.
+        Conference: "2017"
+        
+        - title: Assigned by School Director as Head of the Student Committee    
+        authors: Responsible for organizing fundraising events, graduation ceremony, and prom dinner
+        Conference: "2014"
 skills:
     title: Skills &amp; Proficiency
 
