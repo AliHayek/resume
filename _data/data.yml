@@ -134,26 +134,26 @@ publications:
       
 
     papers:
-      - title: "Finance and Capital markets"  
+        - title: "Finance and Capital markets"  
         authors: "Course on Khan Academy"
         conference: Ongoing 
 
-      - title: "A Complete Introduction to Power BI"
+        - title: "A Complete Introduction to Power BI"
         authors: "Course on Udemy"
         conference: "Certified in July 2019"
 
-      - title: Data Science in Business  
+        - title: Data Science in Business  
         authors: "Two-day training" 
         conference: "June 2019"
             
-      - title: "Financial Modelling"
+        - title: "Financial Modelling"
         authors: Two-day training
         Conference: "March 2019"
         
-       - title: Elected Vice President of AIChE, AUB chapter
+        - title: Elected Vice President of AIChE, AUB chapter
         authors: Responsible for communicating with the administration, enhancing the communication within the student body, raising funds, and supervising all AIChE's events.
         Conference: "2018"
-       - title: Elected Public Relations Officer of AIChE, AUB chapter
+        - title: Elected Public Relations Officer of AIChE, AUB chapter
         authors: Responsible for aquiring sponsors and liaising between different departments and societites.
         Conference: "2017"
         
