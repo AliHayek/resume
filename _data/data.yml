@@ -163,7 +163,10 @@ skills:
 
       - name: Microsoft Office 
         level: 70%
-
+        
+      - name: Soft Skills  
+        level: 70%
+        
       - name: Power BI
         level: 40%
 
